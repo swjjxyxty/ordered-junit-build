@@ -4,7 +4,7 @@
 
     <groupId>com.bestxty.junit</groupId>
     <artifactId>ordered-junit-build</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <packaging>pom</packaging>
 
@@ -31,7 +31,8 @@
         <url>https://github.com/swjjxyxty/ordered-junit-build.git</url>
         <connection>scm:git:https://github.com/swjjxyxty/ordered-junit-build.git</connection>
         <developerConnection>scm:git:https://github.com/swjjxyxty/ordered-junit-build.git</developerConnection>
-    </scm>
+      <tag>v1.0.1</tag>
+  </scm>
 
     <developers>
         <developer>

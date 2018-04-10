@@ -10,7 +10,8 @@
     <packaging>jar</packaging>
 
     <name>orderd-junit-spring</name>
-    <url>http://maven.apache.org</url>
+    <description>Sprint junit integration.</description>
+    <url>https://github.com/swjjxyxty/ordered-junit-build/tree/master/orderd-junit-spring</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -10,7 +10,8 @@
     <packaging>jar</packaging>
 
     <name>orderd-junit</name>
-    <url>http://maven.apache.org</url>
+    <description>Junit method test order support.</description>
+    <url>https://github.com/swjjxyxty/ordered-junit-build/tree/master/orderd-junit</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
